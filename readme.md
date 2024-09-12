@@ -13,6 +13,12 @@ Host the site with Github
 
 * update github repo settings, pages section to deploy branch main
 
+* if a submodule build error occurs, delete the themes/submodule, in my case it was themes/ananke, then
+
+```
+git submodule add https://github.com/theNewDynamic/gohugo-theme-ananke.git themes/ananke
+```
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="media/githubSettingsPages.png" width="300" height="150">  
 
 ## Adding new Post 

@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/arionalmond/Code/github/mySite",
+	"sourceRoot": "/Users/arionalmond/github.com/arionalmond/blog",
 	"sources": [
 		"ananke/css/main.css"
 	],
