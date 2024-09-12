@@ -1,6 +1,7 @@
-# mySite
+# blog
 
-https://arionalmond.github.io/mySite/
+arionalmond.github.io/blog
+formerly github.com/arionalmond/mySite
 
 ## Replicate This
 
